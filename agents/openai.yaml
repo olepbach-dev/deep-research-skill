@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Research"
+  short_description: "Evidence-first research for better decisions"
+  default_prompt: "Use $deep-research to investigate this question and produce a source-backed decision brief."
